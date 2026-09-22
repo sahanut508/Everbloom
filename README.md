@@ -15,3 +15,13 @@
 **NPC 2**
 
 <img width="12800" height="7200" alt="sprite_1_3" src="https://github.com/user-attachments/assets/41712b7e-1887-4628-be76-ed5d9a424648" />
+
+**NPC 3**
+
+<img width="12800" height="7200" alt="sprite_1_2" src="https://github.com/user-attachments/assets/db52eac8-a4b1-4d11-8a8b-9f4dfc2a932c" />
+
+**NPC 4**
+
+<img width="12800" height="7200" alt="sprite_1_4" src="https://github.com/user-attachments/assets/a30bba88-e278-44fe-9dcf-b8db5449f4b9" />
+
+
