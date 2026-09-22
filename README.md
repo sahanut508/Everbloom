@@ -1,14 +1,14 @@
 # 🌸 Everbloom | 2D Simulation Game
 > **2D Artist / Game Designer** | Team of 3 | Unity, C# | 3 เดือน (2025)
 
-## 📌 Overview
+## 📌 Project Overview
 โปรเจกต์เกม 2D Simulation ที่มุ่งเน้นการออกแบบงานศิลป์สไตล์ Pixel Art
-- ออกแบบตัวละครเอก, NPC และ 2D Game Assets ภายในเกม
+- ออกแบบตัวละครเอก, NPC และ 2D Game Assets ทั้งหมดภายในเกม
 - นำ Asset ต้นแบบจากโปรเจกต์ Grandma Market มาพัฒนาต่อยอดเพื่อเพิ่มความสมบูรณ์ให้กับโลกของเกม
 
 ---
 
-## 🎨 ตัวละคร
+## 🎨 Characters (ตัวละคร)
 
 ### 🧍 Main Character & NPCs
 
@@ -29,9 +29,9 @@
 
 ---
 
-## 🍳 อาหารและวัตถุดิบ
+## 🍳 Food & Ingredients (อาหารและวัตถุดิบ)
 
-### 🍔 Dishes (เมนูอาหาร)
+### 🍔เมนูอาหาร
 
 **Hamburger**  
 <img width="240" alt="Hamburger" src="https://github.com/user-attachments/assets/cc7ce055-6a3e-47bc-9a72-7a2669bf7831" />
@@ -47,7 +47,7 @@
 
 ---
 
-### 🥩 วัตถุดิบ
+### 🥩 Ingredients & Crops (วัตถุดิบและพืชผัก)
 
 **Raw Meat**  
 <img width="200" alt="Raw Meat" src="https://github.com/user-attachments/assets/148a13ce-02a1-419d-ba1a-49932b7d3a1a" />
@@ -55,41 +55,45 @@
 **Burger Bun**  
 <img width="200" alt="Burger Bun" src="https://github.com/user-attachments/assets/de400359-8aa5-4171-83bd-1bc1547536f5" />
 
----
-
-### พืชผัก
-
-มะเขือเทศ ผัดกาล มันฝรี่ง กระปล้ำปลี
+**พืชผัก:** มะเขือเทศ, ผักกาด, มันฝรั่ง, กะหล่ำปลี  
 <img width="12800" height="6463" alt="Vegetables" src="https://github.com/user-attachments/assets/2c2b5eb6-e674-4cfb-a434-311e8acce36e" />
 
 ---
 
-### เฟอร์นิเจนและของเครื่องใช้ในครัว
+## 🪑 Furniture & Kitchen Appliances (เฟอร์นิเจอร์และเครื่องใช้ในครัว)
 
-โต๊ะและเก้าอี้
-<img width="640" height="320" alt="-1 png" src="https://github.com/user-attachments/assets/ba0fcdea-e1fb-47ca-af6e-1116cb829715" />
-<img width="640" height="320" alt="6de8785f510f2d8d" src="https://github.com/user-attachments/assets/21c228cc-7190-4faa-af8a-dc30aa4e201c" />
+**โต๊ะและเก้าอี้**  
+<img width="640" height="320" alt="Table & Chair Set 1" src="https://github.com/user-attachments/assets/ba0fcdea-e1fb-47ca-af6e-1116cb829715" />
+<img width="640" height="320" alt="Table & Chair Set 2" src="https://github.com/user-attachments/assets/21c228cc-7190-4faa-af8a-dc30aa4e201c" />
 
-เตาแก็ส เตาทอด เตากริลหน้าเรียบ
-<img width="12800" height="6400" alt="165b02807dbc5b11" src="https://github.com/user-attachments/assets/0fcb4816-4209-4c40-9332-b461b0abf8b8" />
+**อุปกรณ์ประกอบอาหาร:** เตาแก๊ส, เตาทอด, เตากริลล์หน้าเรียบ  
+<img width="12800" height="6400" alt="Kitchen Appliances" src="https://github.com/user-attachments/assets/0fcb4816-4209-4c40-9332-b461b0abf8b8" />
 
-ตู้เย็น
-<img width="640" height="320" alt="530318bae1ceeb31" src="https://github.com/user-attachments/assets/39f253e3-6996-4b05-ba2e-04e800daec0e" />
+**ตู้เย็น**  
+<img width="640" height="320" alt="Refrigerator" src="https://github.com/user-attachments/assets/39f253e3-6996-4b05-ba2e-04e800daec0e" />
 
-jukebox
-<img width="12800" height="6400" alt="jukebox" src="https://github.com/user-attachments/assets/ff62614c-e7dc-4f97-a3c3-533be39df578" />
-
----
-
-สิ่งก่อกวน
-<img width="12800" height="6400" alt="SPOILER_" src="https://github.com/user-attachments/assets/47406bf8-19ec-4232-a1e9-8a3a20401b43" />
+**ตู้เพลง**  
+<img width="12800" height="6400" alt="Jukebox" src="https://github.com/user-attachments/assets/ff62614c-e7dc-4f97-a3c3-533be39df578" />
 
 ---
 
-กำแพงและพื้น และองค์ประกอบส่วนต่างๆ
+## 👾 สิ่งก่อกวน
 
-<img width="12800" height="6494" alt="wall" src="https://github.com/user-attachments/assets/0ab39c9c-6bdf-4a96-954f-2826fc9b94e6" />
+<img width="12800" height="6400" alt="Hazards and Obstacles" src="https://github.com/user-attachments/assets/47406bf8-19ec-4232-a1e9-8a3a20401b43" />
 
+---
 
+## 🧱 Environment & Tilesets (สิ่งแวดล้อมและไทล์เซ็ต)
 
+**กำแพง**  
+<img width="12800" height="6494" alt="Wall Tileset" src="https://github.com/user-attachments/assets/0ab39c9c-6bdf-4a96-954f-2826fc9b94e6" />
 
+**พื้น**  
+<img width="5812" height="3149" alt="Floor Tileset" src="https://github.com/user-attachments/assets/92666138-ab57-424d-97db-f92b9eb98b38" />
+
+**รั้วและตกแต่งภายนอก **  
+<img width="12800" height="3765" alt="Fence Tileset" src="https://github.com/user-attachments/assets/0cd7399b-d050-4edb-b05b-6043935529ae" />
+<img width="12800" height="6400" alt="Outdoor Sprites" src="https://github.com/user-attachments/assets/08905a66-0c2b-4bd7-bca7-24a9a225608e" />
+
+**ภาพพื้นหลัง**  
+<img width="12800" height="6400" alt="Background Artwork" src="https://github.com/user-attachments/assets/9dba45e0-b493-49d8-bac5-709fdbfef1c1" />
