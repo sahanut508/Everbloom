@@ -79,6 +79,17 @@
 jukebox
 <img width="12800" height="6400" alt="jukebox" src="https://github.com/user-attachments/assets/ff62614c-e7dc-4f97-a3c3-533be39df578" />
 
+---
+
+สิ่งก่อกวน
+<img width="12800" height="6400" alt="SPOILER_" src="https://github.com/user-attachments/assets/47406bf8-19ec-4232-a1e9-8a3a20401b43" />
+
+---
+
+กำแพงและพื้น และองค์ประกอบส่วนต่างๆ
+
+<img width="12800" height="6494" alt="wall" src="https://github.com/user-attachments/assets/0ab39c9c-6bdf-4a96-954f-2826fc9b94e6" />
+
 
 
 
