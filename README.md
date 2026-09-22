@@ -8,7 +8,7 @@
 
 ---
 
-## 🎨 Characters Design (ตัวละคร)
+## 🎨 ตัวละคร
 
 ### 🧍 Main Character & NPCs
 
@@ -29,7 +29,7 @@
 
 ---
 
-## 🍳 Food & Ingredients (อาหารและวัตถุดิบ)
+## 🍳 อาหารและวัตถุดิบ
 
 ### 🍔 Dishes (เมนูอาหาร)
 
@@ -47,10 +47,38 @@
 
 ---
 
-### 🥩 Ingredients (วัตถุดิบ)
+### 🥩 วัตถุดิบ
 
 **Raw Meat**  
 <img width="200" alt="Raw Meat" src="https://github.com/user-attachments/assets/148a13ce-02a1-419d-ba1a-49932b7d3a1a" />
 
 **Burger Bun**  
 <img width="200" alt="Burger Bun" src="https://github.com/user-attachments/assets/de400359-8aa5-4171-83bd-1bc1547536f5" />
+
+---
+
+### พืชผัก
+
+มะเขือเทศ ผัดกาล มันฝรี่ง กระปล้ำปลี
+<img width="12800" height="6463" alt="Vegetables" src="https://github.com/user-attachments/assets/2c2b5eb6-e674-4cfb-a434-311e8acce36e" />
+
+---
+
+### เฟอร์นิเจนและของเครื่องใช้ในครัว
+
+โต๊ะและเก้าอี้
+<img width="640" height="320" alt="-1 png" src="https://github.com/user-attachments/assets/ba0fcdea-e1fb-47ca-af6e-1116cb829715" />
+<img width="640" height="320" alt="6de8785f510f2d8d" src="https://github.com/user-attachments/assets/21c228cc-7190-4faa-af8a-dc30aa4e201c" />
+
+เตาแก็ส เตาทอด เตากริลหน้าเรียบ
+<img width="12800" height="6400" alt="165b02807dbc5b11" src="https://github.com/user-attachments/assets/0fcb4816-4209-4c40-9332-b461b0abf8b8" />
+
+ตู้เย็น
+<img width="640" height="320" alt="530318bae1ceeb31" src="https://github.com/user-attachments/assets/39f253e3-6996-4b05-ba2e-04e800daec0e" />
+
+jukebox
+<img width="12800" height="6400" alt="jukebox" src="https://github.com/user-attachments/assets/ff62614c-e7dc-4f97-a3c3-533be39df578" />
+
+
+
+
