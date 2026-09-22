@@ -1,1 +1,4 @@
-Everbloom | 2D Simulation
+# Everbloom | 2D Simulation
+> **Artist Design**  | Team of 3 | Unity, C# | 3 เดือน (2025)
+> - ออกแบบระบบพฤติกรรม NPC โดยกำหนดความต้องการสินค้าและระบบเวลารอคอย ของ NPC ลูกค้าแต่ละประเภท
+> - ออกแบบตัวละคร NPC และ 2D Assets เพื่อใช้เป็นต้นแบบ และนำไปพัฒนาต่อยอดในโปรเจกต์เกม Everbloom
