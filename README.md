@@ -1,1 +1,1 @@
-# Everbloom
+Everbloom | 2D Simulation
